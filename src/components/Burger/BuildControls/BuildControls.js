@@ -20,7 +20,7 @@ const buildControls = (props) => (
                 removed={() => props.ingredientRemoved(ctrl.type)}
             />
         ))}
-        <p>Tj is at work</p>
+        <p>{props.message}</p>
     </div>
 );
 
