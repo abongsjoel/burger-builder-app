@@ -8,9 +8,7 @@ function App() {
     <div>
       <Layout>
         <BurgerBuilder />
-        <p>Almost before we knew it, we had left the ground.</p>
       </Layout>
-
     </div>
   );
 }
