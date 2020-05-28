@@ -22,7 +22,7 @@ class OrderSummary extends Component {
         return (
             <Aux>
                 <h3>Your Order</h3>
-                <p>A delicious burger with the following ingredients: </p>
+                <p>A delicious TJ burger with the following ingredients: </p>
                 <ul>
                     {ingredientSummary}
                 </ul>
@@ -36,7 +36,7 @@ class OrderSummary extends Component {
                     clicked={this.props.purchaseContinued}
                     btnType="Success"
                 >CONTINUE</Button>
-            </Aux>
+            </Aux> 
         );
     }
 }

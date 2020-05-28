@@ -9,19 +9,17 @@ import Spinner from '../../components/UI/Spinner/Spinner';
 import withErrorHandler from '../../hoc/withErrorHandler/withErrorHandler';
 import axios from '../../axios-orders';
 
-
-
 const INGREDIENT_PRICES = {
-    salad: 500,
-    cheese: 400,
-    meat: 1300,
-    bacon: 700
+    salad: 200,
+    cheese: 300,
+    meat: 500,
+    bacon: 400
 }
 
 class BurgerBuilder extends Component {
     state = {
         ingredients: null,
-        totalPrice: 4000,
+        totalPrice: 100,
         purchaseable: false,
         purchasing: false,
         loading: false,
@@ -162,4 +160,4 @@ class BurgerBuilder extends Component {
     }
 }
 
-export default withErrorHandler(BurgerBuilder, axios);
+export default withErrorHandler(BurgerBuilder, axios); 
