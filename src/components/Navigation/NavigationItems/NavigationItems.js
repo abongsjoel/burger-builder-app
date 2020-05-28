@@ -11,4 +11,4 @@ const navigationItems = () => (
     </ul>
 );
 
-export default navigationItems;
+export default navigationItems; 
