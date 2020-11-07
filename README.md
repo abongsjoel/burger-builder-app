@@ -1,3 +1,40 @@
+# TJ Burger Builder
+
+> In this project, i built an amazing application that can be used to order burger
+
+![screenshot](../master/screenshot.png)
+
+The project is built with Reactjs, making use of Class-based components as well as functional components. I used Firebase for database storage. I also made use of axios to query the database and react-routers to switch between pages in the application.
+
+## Live Demo
+
+- [Visit Page](https://tj-burger-builder.vercel.app/)
+
+## Built With
+
+- Reactjs
+- Firebase
+
+## Author
+
+👤 **Chi A. Joel**
+
+- GitHub: [@abongsjoel](https://github.com/abongsjoel)
+- Twitter: [@thierryjoel10](https://twitter.com/ThierryJoel10)
+- LinkedIn: [Chi Abongwa Joel](https://www.linkedin.com/in/chi-abongwa-joel-b4285a97/)
+
+## Show your support
+<p> Give a 
+  <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"><img class="emoji" alt="star" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"></g-emoji>
+  if you like this project!</p>
+
+## License
+  <p>This project is <a href="../Features/LICENSE">MIT</a> licensed.</p>
+
+  
+
+## The React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
