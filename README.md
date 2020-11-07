@@ -4,7 +4,7 @@
 
 ![screenshot](../master/screenshot.png)
 
-The project is built with Reactjs, making use of Class-based components as well as functional components. I used Firebase for database storage. I also made use of axios to query the database and react-routers to switch between pages in the application.
+The project is built with Reactjs, making use of Class-based components as well as functional components. I also made use of css-modules to style the different components. I used Firebase for database storage. I also made use of axios to query the database and react-routers to switch between pages in the application.
 
 ## Live Demo
 
@@ -31,7 +31,7 @@ The project is built with Reactjs, making use of Class-based components as well 
 ## License
   <p>This project is <a href="../Features/LICENSE">MIT</a> licensed.</p>
 
-  
+
 
 ## The React App
 
