@@ -122,12 +122,13 @@ class ContactData extends Component {
             .then(response => {
                 this.setState({ loading: false })
                 this.props.history.push('/');
+                console.log("order submitted successfully: ", response);
             })
             .catch(error => {
                 this.setState({ loading: false })
             });
     }
-
+ 
     checkValidity(value, rules) {
         let isValid = true;
 

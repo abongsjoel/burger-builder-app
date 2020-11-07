@@ -108,7 +108,7 @@ class BurgerBuilder extends Component {
         this.props.history.push({
             pathname: '/checkout',
             search: '?' + queryString
-        });                                                               
+        });                                                           
     }
 
     render () {
@@ -145,7 +145,7 @@ class BurgerBuilder extends Component {
                 />
             );
             if (this.state.loading) {
-                orderSummary = <Spinner />
+                orderSummary = <Spinner />;
             }
         }
 
