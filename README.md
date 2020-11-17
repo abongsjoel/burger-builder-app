@@ -1,6 +1,6 @@
 # TJ Burger Builder
 
-> In this project, i built an amazing application that can be used to order burger
+> In this project, i built an amazing application that can be used to order a burger
 
 ![screenshot](../master/screenshot.png)
 
@@ -14,6 +14,8 @@ The project is built with Reactjs, making use of Class-based components as well 
 
 - Reactjs
 - Firebase
+- HTML5
+- CSS3
 
 ## Author
 
