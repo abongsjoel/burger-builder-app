@@ -26,9 +26,16 @@ The project is built with Reactjs, making use of Class-based components as well 
 - LinkedIn: [Chi Abongwa Joel](https://www.linkedin.com/in/chi-abongwa-joel-b4285a97/)
 
 
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/abongsjoel/freightclaims-lodgeing-form/issues).
+
 
 ## Show your support
 Give a ⭐️ if you like this project!
+
 
 ## License
   <p>This project is <a href="../master/LICENSE">MIT</a> licensed.</p>
