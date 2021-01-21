@@ -31,7 +31,7 @@ The project is built with Reactjs, making use of Class-based components as well 
   if you like this project!</p>
 
 ## License
-  <p>This project is <a href="../Features/LICENSE">MIT</a> licensed.</p>
+  <p>This project is <a href="../main/LICENSE">MIT</a> licensed.</p>
 
 
 
